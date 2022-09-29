@@ -92,7 +92,7 @@
   background-image: linear-gradient(150deg, #5fa34b 0%, #122e0c 30%, #5fa34b 70%, #122e0c 100%) !important;
 }
 .owl-carousel:not(.nav-arrows-1):not(.show-nav-title) .owl-nav button[class*="owl-"] {
-  background-color: #5fa34b !important;
+  background-color: #c68642be !important;
   border-color: #0088cc #0088cc #006699;
   color: #FFF;
 }
